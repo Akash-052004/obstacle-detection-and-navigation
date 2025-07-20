@@ -32,8 +32,7 @@ This project uses real-time object detection and audio feedback to assist visual
    %cd yolov5
    %pip install -r requirements.txt
 
-   ---
-
+---
 ## 📓 How It Works
 
 - YOLOv5 detects obstacles in real-time from camera/video input.
